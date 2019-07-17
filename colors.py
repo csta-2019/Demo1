@@ -5,3 +5,4 @@ i = 0
 while i < len(colors):
     print("When I was %d my favorite color was %s" % (i*4,colors[i]))
     i+=1
+print("Boy, have my tastes changed.")
